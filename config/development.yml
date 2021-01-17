@@ -1,0 +1,9 @@
+root:
+  db:
+    host: 'localhost'
+    username: 'postgres'
+    password: 'Pass2020!'
+    synchronize: true
+
+  jwt:
+    secret: 'topSecretZafer'
